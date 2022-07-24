@@ -21,7 +21,7 @@ const App = () =>  {
   const [ loading, setLoading ] = useState(false);
 
   // adresse de notre contrat deployé
-  const contractAddress = "0xdc4bD2edD5e818F5D052adbE4089C42E6736d113";
+  const contractAddress = "0x6573bC50E57ffCB25c0ff0507ce598a986339754";
 
   /*  
   * Lorsque on compile notre contrat, le compilateur genere des fichiers qui nous permettent d'interagir avec le contrat. 
